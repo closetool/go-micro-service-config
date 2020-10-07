@@ -1,6 +1,6 @@
 mysql_user: root
 mysql_password: '{cipher}AQBcAlqgzTA3MslCvzZaydK2fK3k6Efb/hrEGU/Oujcvnt/Lu9kAryKR3RX/kyN4oU2hszp+5uanGOjonygSXpj4uD00g1A7JmUweNH8E/SsBO2PR3knWSU00hg8mcwx/cy6bUhbFZRms6euvz3uyqwvCoW3ghipB331nKDNn/o58pSacmjPsDjFPdIFM1chUwxZReaZkZ38fz/WhhVBbb1CgsXWBmHaLgYzFbyb+xZDsh3AjD7Tq7mDNCvpnG7IA2kuNDXaL2iP/PUiwByuZhpLJ7s5fj4blWelK6erOxdSUf2a6RhwM0o6IdchnIyj7KAnS//BFoyFrEKNBTS+Xp8potgRp46Thy4Jpwf6Cu/JqQFK3F6nFmNNHNVjVl7VJDA='
-mysql_location: tcp(localhost:3306)/blog?charset=utf8&serverTimezone=Hongkong
+mysql_location: tcp(localhost:3306)/test?charset=utf8&serverTimezone=Hongkong
 service_name: userservice
 log_file_path: ./
 log_file_name: log

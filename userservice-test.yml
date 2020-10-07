@@ -2,8 +2,7 @@ db_password: '{cipher}AQBcAlqgzTA3MslCvzZaydK2fK3k6Efb/hrEGU/Oujcvnt/Lu9kAryKR3R
 db_location: root:%s@/test?charset=utf8
 db_type: mysql
 service_name: userservice
-log_file_path: ./
-log_file_name: log
+log_file_path: ./logs/
 log_level: 4
 service_port: 3456
 mysql_prefix: closetool

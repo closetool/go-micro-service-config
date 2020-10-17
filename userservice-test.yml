@@ -9,3 +9,4 @@ service_port: 2600
 mysql_prefix: closetool
 redis: localhost:6379
 amqp_location: amqp://guest:guest@localhost:5672/
+amqp_token: auth.token

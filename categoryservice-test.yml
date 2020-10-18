@@ -3,7 +3,7 @@ db_location: root:%s@tcp(localhost:3306)/test?charset=utf8
 db_type: mysql
 service_name: categoryservice
 log_file_path: ./logs/
-log_level: 4
+log_level: 5
 service_port: 2601
 mysql_prefix: closetool
 redis: localhost:6379

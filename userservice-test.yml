@@ -4,7 +4,7 @@ db_type: mysql
 github_auth_url: "https://github.com/login/oauth/authorize?scope=public_repo,read:user&client_id=09087b58751fd0859bce"
 service_name: userservice
 log_file_path: ./logs/
-log_level: 4
+log_level: 5
 service_port: 2600
 mysql_prefix: closetool
 redis: localhost:6379

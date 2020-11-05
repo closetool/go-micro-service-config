@@ -9,4 +9,3 @@ service_port: 2600
 mysql_prefix: closetool
 redis: localhost:6379
 amqp_location: amqp://guest:guest@closetool.site:5672/
-amqp_verifyToken: auth.verifyToken

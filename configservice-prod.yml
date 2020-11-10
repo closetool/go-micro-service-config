@@ -8,4 +8,4 @@ log_level: 5
 service_port: 2605
 mysql_prefix: closetool
 redis: localhost:6379
-amqp_location: amqp://guest:guest@mysql:5672/
+amqp_location: amqp://guest:guest@rabbitmq:5672/
